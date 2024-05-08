@@ -1,0 +1,108 @@
+.home-section{
+    position: relative;
+}
+.Blood-Inv{
+  height: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.heding{
+  text-align: center;
+}
+.Blood-Inv .container1{
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  width: 90%;
+  
+}
+.Blood-Inv .container1 .Blood-Group-A{
+  display: flex;
+  height: 130px;
+  width: 17%;
+  margin: 10px;
+  text-align: center;
+  vertical-align: center;
+  line-height: 500%;
+  margin-right: 40px;
+  background-color: whitesmoke;
+  border-radius: 3px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+}
+.Blood-Inv .container1 .Blood-Group-A:hover{
+  display: flex;
+  background-color: #987dc8;
+  color: white;
+  height: 150px;
+  width: 20%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.positive{
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  display: block;
+  font-size: larger;
+}
+.head{
+  height: 50%;
+  width: 100%;
+  text-align: center;
+}
+.count{
+  height: auto;
+  text-align: top;
+  vertical-align:baseline;
+  line-height: 200%;
+}
+.nagativ{
+  text-align: center;
+  height: auto;
+  width: 50%;
+  font-size: larger;
+}
+/* 
+.Donor-Req-Inv{
+  height: 25%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+  background: #e4e9f7;
+  display: block;
+  text-align: center;
+  justify-content: center;
+}
+.Donor-Req-Inv span{
+  font-weight: 100;
+}
+.con1{
+  display: flex;
+}
+.ttl{
+  margin: 3%;
+  height: 70%;
+  width: 25%;
+  background-color: whitesmoke;
+  border-radius: 3px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  text-align: center;
+}
+.ttl:hover{
+  height: 75%;
+  width: 25%;
+  background-color: #987dc8;
+  color: white;
+  height: 250px;
+  width: 60%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.ttl h2{
+  text-align: center;
+  justify-content: center;
+  margin-top: 25%;
+  margin-bottom: 25%;
+}
+.Apointment{
+  height: 60%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+  background: #e4e9f7;
+} */
